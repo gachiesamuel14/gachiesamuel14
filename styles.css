@@ -1,0 +1,20 @@
+body{margin:0;font-family:sans-serif;line-height:1.6;background:#fff;color:#111}
+.container{max-width:1100px;margin:auto;padding:20px}
+.site-header{background:#1f5d2b;color:white;padding:20px;text-align:center}
+.site-header h1{margin:0}
+.tagline{font-size:1rem;margin:5px 0 10px}
+.nav a{color:white;text-decoration:none;margin:0 10px;font-weight:bold}
+.hero{background:#f5faf5;padding:30px 0}
+.hero-grid{display:flex;gap:20px;align-items:center;flex-wrap:wrap;justify-content:space-between}
+.hero-text{flex:1}
+.hero-text h2{color:#1f5d2b;margin:0 0 10px}
+.hero-image img{width:250px;border-radius:8px}
+.director{background:#f8fdf8;padding:30px 0;margin-top:20px}
+.director-grid{display:flex;gap:20px;align-items:center;flex-wrap:wrap}
+director-photo{width:200px;border-radius:8px}
+director-message blockquote{font-size:1.2rem;color:#1f5d2b;margin:0 0 10px}
+signature{font-weight:bold;color:#555}
+courses ul{list-style:disc;padding-left:20px}
+.site-footer{background:#1f5d2b;color:white;text-align:center;padding:20px;margin-top:30px}
+.site-footer a{color:#fff;text-decoration:underline}
+.footer-note{margin-top:10px;font-size:0.9rem;color:#ddd}
